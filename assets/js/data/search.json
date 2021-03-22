@@ -1,0 +1,94 @@
+[
+  
+  {
+    "title": "Enable Google Page Views",
+    "url": "/posts/test/",
+    "categories": "Blogging, Tutorial",
+    "tags": "google analytics, pageviews",
+    "date": "2021-01-04 07:32:00 +0800",
+    
+
+
+
+
+
+    "snippet": "本文是『 深入浅出 Flutter Framework 』系列文章的第一篇，主要以不同类型 Widget 的核心方法为切入点，对其展开详细分析。©原创文章，转载请注明出处！OverviewFlutter 作为一种新兴跨平台解决方案，自 2017 年 Google 在 I/O 大会上推出后，尤其是在 2018 年 I/O 大会上发布第一个预览版后，迅速引起移动开发者的广泛关注，并成为时下最热门的跨平台解决方案 ( 没有之一 ) ！本系列文章将深入 Flutter Framework 内部逐步去分析其核心概念和流程，主要包括：『 深入浅出 Flutter Framework 之 Widget..."
+  },
+  
+  {
+    "title": "Enable Google Page Views",
+    "url": "/posts/enable-google-pv/",
+    "categories": "Blogging, Tutorial",
+    "tags": "google analytics, pageviews",
+    "date": "2021-01-04 07:32:00 +0800",
+    
+
+
+
+
+
+    "snippet": "This post is to enable Page Views on the Chirpy theme based blog that you just built. This requires technical knowledge and it’s recommended to keep the google_analytics.pv disabled unless you have a good reason. If your website has low traffic, the page views count would discourage you to write ..."
+  },
+  
+  {
+    "title": "Customize the Favicon",
+    "url": "/posts/customize-the-favicon/",
+    "categories": "Blogging, Tutorial",
+    "tags": "favicon",
+    "date": "2019-08-11 00:34:00 +0800",
+    
+
+
+
+
+
+    "snippet": "In Chirpy, the image files of Favicons are placed in assets/img/favicons/. You may need to replace them with your own. So let’s see how to customize these Favicons.With a square image (PNG, JPG or GIF) in hand, open the site Favicon &amp;amp; App Icon Generator and upload your original image.Clic..."
+  },
+  
+  {
+    "title": "Getting Started",
+    "url": "/posts/getting-started/",
+    "categories": "Blogging, Tutorial",
+    "tags": "getting started",
+    "date": "2019-08-09 20:55:00 +0800",
+    
+
+
+
+
+
+    "snippet": "PrerequisitesFollow the Jekyll Docs to complete the installation of Ruby, RubyGems, Jekyll and Bundler.InstallationThere are two ways to get the theme:  Install from RubyGems - Easy to update, isolate irrelevant project files so you can focus on writing.  Fork on GitHub - Convenient for custom de..."
+  },
+  
+  {
+    "title": "Writing a New Post",
+    "url": "/posts/write-a-new-post/",
+    "categories": "Blogging, Tutorial",
+    "tags": "writing",
+    "date": "2019-08-08 14:10:00 +0800",
+    
+
+
+
+
+
+    "snippet": "Naming and PathCreate a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts/ of the root directory. Please note that the EXTENSION must be one of md and markdown.Front MatterBasically, you need to fill the Front Matter as below at the top of the post:---title: TITLEdate: YYYY-MM-DD..."
+  },
+  
+  {
+    "title": "Text and Typography",
+    "url": "/posts/text-and-typography/",
+    "categories": "Blogging, Demo",
+    "tags": "typography",
+    "date": "2019-08-08 11:33:00 +0800",
+    
+
+
+
+
+
+    "snippet": "This post is to show Markdown syntax rendering on Chirpy, you can also use it as an example of writing. Now, let’s start looking at text and typography.TitlesH1 - headingH2 - headingH3 - headingH4 - headingParagraphI wandered lonely as a cloudThat floats on high o’er vales and hills,When all at o..."
+  }
+  
+]
+
